@@ -13,7 +13,7 @@ const social = [
 	{ icon: icon.SiInstagram, link: 'https://www.instagram.com/' },
 ];
 
-const brand = 'Singleton'
+const brand = 'Muen Zhang's Portfolio'
 
 
 const work = [
