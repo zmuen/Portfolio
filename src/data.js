@@ -3,17 +3,17 @@ import * as icon from 'react-icons/si'
 const profile = {
 	name: 'Muen Zhang',
 	role: 'Spatial Analyst',
-	description: 'I'm currently a gruduate student at Harvard GSD, with a background in Planning and Architecture.',
+	description: 'I\'m currently a graduate student at Harvard GSD, with a background in Planning and Architecture.',
 };
 
 const social = [
 	{ icon: icon.SiGithub, link: 'https://github.com/zmuen' },
-	{ icon: icon.SiLinkedIn, link: 'https://www.linkedin.com/in/muenzhang/' },
+	{ icon: icon.SiLinkedin, link: 'https://www.linkedin.com/in/muenzhang/' },
 	{ icon: icon.SiTwitter, link: 'https://www.twitter.com/' },
-	{ icon: icon.SiInstagram, link: 'https://www.instagram.com/' },
+	{ icon: icon.SiInstagram, link: 'https://www.instagram.com/' }
 ];
 
-const brand = 'Muen Zhang's Portfolio'
+const brand = 'Interaction'
 
 
 const work = [
@@ -21,7 +21,7 @@ const work = [
 		name: 'Todo app',
 		description: 'Phasellus metus mi, scelerisque eu volutpat non, posuere et massa. Nunc hendrerit, augue non fringilla mattis.',
 		stack: [
-			{ icon: icon.SiHtml5, name: 'HTML' },
+			{ icon: icon.SiPython, name: 'Python' },
 			{ icon: icon.SiCss3, name: 'CSS' },
 			{ icon: icon.SiJavascript, name: 'Javascript' },
 			{ icon: icon.SiReact, name: 'ReactJS' },
