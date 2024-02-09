@@ -1,19 +1,19 @@
-import * as icon  from 'react-icons/si'
+import * as icon from 'react-icons/si'
 
 const profile = {
-	name: 'Carlos Montenegro',
-	role: 'Front End Developer',
-	description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed facere, itaque excepturi, necessitatibus cum ex nisi.',
+	name: 'Muen Zhang',
+	role: 'Spatial Analyst',
+	description: 'I'm currently a gruduate student at Harvard GSD, with a background in Planning and Architecture.',
 };
 
 const social = [
-	{ icon: icon.SiGithub, link: 'https://github.com' },
-	{ icon: icon.SiCodepen, link: 'https://www.medium.com/' },
+	{ icon: icon.SiGithub, link: 'https://github.com/zmuen' },
+	{ icon: icon.SiLinkedIn, link: 'https://www.linkedin.com/in/muenzhang/' },
 	{ icon: icon.SiTwitter, link: 'https://www.twitter.com/' },
 	{ icon: icon.SiInstagram, link: 'https://www.instagram.com/' },
 ];
 
-const brand = 'Singleton'
+const brand = 'Muen Zhang's Portfolio'
 
 
 const work = [
